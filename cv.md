@@ -29,9 +29,9 @@
 **Back-end:** Django, aiohttp  
 **Front-end:** HTML, CSS, Bootstrap, Bulma, Django templates  
 **Databases:** SQL, SQLite, Django ORM  
-**Infrastructure:** Git, GitHub, Linux, Windows, Docker  
+**Infrastructure:** Git, GitHub, Linux, Windows, Docker, Google API, Yandex REST API, CVAT  
 **IDE:** vscode, PyCharm, Jupyter  
-**Other:** OOP, Pandas, NumPy, Matplotlib, MetroloPy, requests, re, aiogram, json, lxml, Beautiful Soup, Redis, HTTP
+**Other:** OOP, Pandas, NumPy, Matplotlib, MetroloPy, requests, re, aiogram, json, lxml, Beautiful Soup, Redis, HTTP, OpenCV, Pillow, cvat-sdk, google-api-python-client  
 
 ---
 
